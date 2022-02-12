@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @svmprxlf
+- 👋 Hi, I’m Rafael
 - 👀 I’m interested in learning how to code, and entering the feild of cs
 - 🌱 I’m currently learning C/C++
 - 💞️ I’m looking to collaborate on n/a
